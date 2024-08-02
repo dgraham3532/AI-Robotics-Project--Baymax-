@@ -3,3 +3,6 @@ This project is to bring the robotic character Baymax from the movie, Big Hero 6
 In order to run the code, you must have active subscriptions to:
 Microsoft Azure
 Eleven Labs
+
+*********************** DEMO VIDEO **************************
+https://dgraham3532.github.io/Project-Baymax/BaymaxDemoVideo.mp4
