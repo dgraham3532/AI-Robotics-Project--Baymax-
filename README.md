@@ -6,4 +6,4 @@ Eleven Labs
 
 *********************** DEMO VIDEO **************************
 
-https://dgraham3532.github.io/Project-Baymax/BaymaxDemoVideo.mp4
+https://dgraham3532.github.io/AI-Robotics-Project--Baymax-/BaymaxDemoVideo.mp4
